@@ -1,0 +1,16 @@
+{
+  "name": "AUX Events · Administración",
+  "short_name": "AUX Admin",
+  "description": "Agenda, pagos, cotizaciones, contratos y catálogo de AUX Events.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3E4936",
+  "theme_color": "#3E4936",
+  "lang": "es-MX",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
